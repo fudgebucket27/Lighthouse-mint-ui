@@ -1,21 +1,14 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
-    "website":"",
-    "twitter":"",
-    "discord":"",
-    "rpc":"",
-    "network":"atlantic-2", 
-    "collection_address":"", 
+    "name":"The 10,000",
+    "description":"This is a free mint! A collection of 10,000 numbers.  No utility promised.",
+    "website":"https://fudgey.io/the-10000",
+    "twitter":"https://twitter.com/fudgeyDOTeth",
+    "discord":"https://discord.gg/nDRQUMRhxj",
+    "rpc":"https://rpc.ankr.com/sei/a1cef4420bf3e758c902bf0db225eb740ec3e141a5be3d7e18596e5f29b926be",
+    "network":"pacific-1", 
+    "collection_address":"sei1g78szggjcvye47978p9ttnyxvaxwq872muz8ejle36s6h266kr7qf30ctg", 
     "nft_name_type": "default",
     "groups":[
-        {
-            "name":"whitelist",
-            "allowlist":[
-                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
-            ] 
-        },
         {
             "name":"public"
         }
