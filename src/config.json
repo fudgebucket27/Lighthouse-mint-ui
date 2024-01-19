@@ -1,9 +1,9 @@
 {
     "name":"The 10,000",
-    "description":"This is a free mint! A collection of 10,000 numbers.  No utility promised.",
+    "description":"This is a free mint! A collection of 10,000 numbers.  No utility and roadmap promised.",
     "website":"https://fudgey.io/the-10000",
-    "twitter":"https://twitter.com/fudgeyDOTeth",
-    "discord":"https://discord.gg/nDRQUMRhxj",
+    "twitter":"https://twitter.com/the10000sei",
+    "discord":"",
     "rpc":"https://rpc.ankr.com/sei/a1cef4420bf3e758c902bf0db225eb740ec3e141a5be3d7e18596e5f29b926be",
     "network":"pacific-1", 
     "collection_address":"sei1l7a7cp2xpqx0zpzghz5j9z4ch73j9c07asnpwndv9sglxe8klkdq50s6va", 
