@@ -1,21 +1,14 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
-    "website":"",
-    "twitter":"",
+    "name":"FrankenFrens",
+    "description":"This is a free mint! No utility. No roadmap. Just silly art, memes and making Frens.",
+    "website":"https://fudgey.io/the-10000",
+    "twitter":"https://twitter.com/ffrens_sei",
     "discord":"",
-    "rpc":"",
-    "network":"atlantic-2", 
-    "collection_address":"", 
+    "rpc":"https://rpc.ankr.com/sei/a1cef4420bf3e758c902bf0db225eb740ec3e141a5be3d7e18596e5f29b926be",
+    "network":"pacific-1", 
+    "collection_address":"sei1l7a7cp2xpqx0zpzghz5j9z4ch73j9c07asnpwndv9sglxe8klkdq50s6va", 
     "nft_name_type": "default",
     "groups":[
-        {
-            "name":"whitelist",
-            "allowlist":[
-                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
-            ] 
-        },
         {
             "name":"public"
         }
