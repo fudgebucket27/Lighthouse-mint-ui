@@ -9,6 +9,12 @@
     "collection_address":"sei1l7a7cp2xpqx0zpzghz5j9z4ch73j9c07asnpwndv9sglxe8klkdq50s6va", 
     "nft_name_type": "default",
     "groups":[
+		{
+            "name":"whitelist",
+			"allowlist": [
+			"sei1hdahrkwwh9rex89de0mtskl3n5wsnqkd8qpn4p"
+			]
+        }
         {
             "name":"public"
         }
